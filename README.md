@@ -12,4 +12,4 @@ Password :- harsh
 
 Parent Credentials:-
 LoginId :- 13
-Password :- Bhavya
+Password :- bhavya
